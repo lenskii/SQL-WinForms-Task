@@ -1,0 +1,16 @@
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\bin\Release\InvoiceApp.exe.config
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\bin\Release\InvoiceApp.exe
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\bin\Release\InvoiceApp.pdb
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\bin\Release\EntityFramework.dll
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\bin\Release\EntityFramework.SqlServer.dll
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\bin\Release\EntityFramework.xml
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\bin\Release\EntityFramework.SqlServer.xml
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.csprojAssemblyReference.cache
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.Form1.resources
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.Form2.resources
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.Properties.Resources.resources
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.csproj.GenerateResource.cache
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.csproj.CoreCompileInputs.cache
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.csproj.CopyComplete
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.exe
+E:\OneDrive - ssau.ru\Documents\Projects\Crmgurutest\InvoiceApp\obj\Release\InvoiceApp.pdb
